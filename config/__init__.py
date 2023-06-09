@@ -1,0 +1,1 @@
+<img src="/static/media/logo.8cf189b6.webp" style="height: 42px; margin-right: 45px;" alt="logo">
